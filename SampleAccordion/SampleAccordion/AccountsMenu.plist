@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>itemId</key>
+		<string>medical_records</string>
+		<key>itemName</key>
+		<string>Medical Records</string>
+		<key>itemImage</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>itemId</key>
+		<string>account_settings</string>
+		<key>itemName</key>
+		<string>Account Settings</string>
+		<key>itemImage</key>
+		<string></string>
+		<key>SubItems</key>
+		<array>
+			<dict>
+				<key>SubItemId</key>
+				<string>notification</string>
+				<key>SubItemName</key>
+				<string>Notification</string>
+				<key>SubItemDesc</key>
+				<string></string>
+				<key>SubItemImage</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>SubItemId</key>
+				<string>location_settings</string>
+				<key>SubItemName</key>
+				<string>Location Settings</string>
+				<key>SubItemImage</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>SubItemId</key>
+				<string>security_settings</string>
+				<key>SubItemName</key>
+				<string>Security Settings</string>
+				<key>SubItemImage</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>SubItemId</key>
+				<string>edit_profile</string>
+				<key>SubItemName</key>
+				<string>Edit Profile</string>
+				<key>SubItemImage</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>SubItemId</key>
+				<string>manage_address</string>
+				<key>SubItemName</key>
+				<string>Manage Address</string>
+				<key>SubItemImage</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>SubItemId</key>
+				<string>manage_patient</string>
+				<key>SubItemName</key>
+				<string>Manage Patients</string>
+				<key>SubItemImage</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>itemId</key>
+		<string>about_us</string>
+		<key>itemName</key>
+		<string>About Us</string>
+		<key>itemImage</key>
+		<string></string>
+		<key>SubItems</key>
+		<array>
+			<dict>
+				<key>SubItemId</key>
+				<string>return_policy</string>
+				<key>SubItemName</key>
+				<string>Return Policy</string>
+				<key>SubItemImage</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>SubItemId</key>
+				<string>terms_conditions</string>
+				<key>SubItemName</key>
+				<string>Terms &amp; Conditions</string>
+				<key>SubItemImage</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>SubItemId</key>
+				<string>faqs</string>
+				<key>SubItemName</key>
+				<string>FAQs</string>
+				<key>SubItemImage</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>itemId</key>
+		<string>rate_us</string>
+		<key>itemName</key>
+		<string>Rate Us</string>
+		<key>itemImage</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>itemId</key>
+		<string>share</string>
+		<key>itemName</key>
+		<string>Share</string>
+		<key>itemImage</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>itemId</key>
+		<string>need_help</string>
+		<key>itemName</key>
+		<string>Need Help</string>
+		<key>itemImage</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>itemId</key>
+		<string>logout</string>
+		<key>itemName</key>
+		<string>Logout</string>
+		<key>itemImage</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
